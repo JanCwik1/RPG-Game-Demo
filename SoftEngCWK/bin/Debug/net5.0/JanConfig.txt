@@ -1,0 +1,8 @@
+Difficulty:1
+NumberOfPlayers:1
+hardDifficultyMulitplier:1
+mediumDifficultyMultiplier:2
+easyDifficultyMultiplier:3
+initialPlayerHealth:3
+initialPlayerAttack:3
+playerStatsToUse:5
